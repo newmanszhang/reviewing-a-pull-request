@@ -1,4 +1,7 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris
+```suggestion
+You can play the game at: https://newmanszhang.github.io/github-games/
+```
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
